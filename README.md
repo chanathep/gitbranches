@@ -7,3 +7,4 @@
 4. main - merge dev readme2
 5. main - update readme
 6. main - merge dev get update readme2
+7. main - merge dev works like cherry pick that get later changed files
