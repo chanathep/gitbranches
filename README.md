@@ -6,3 +6,4 @@
 3. with merge there are no ways to make dev and main be at the same commit
 4. main - merge dev readme2
 5. main - update readme
+6. main - merge dev get update readme2
